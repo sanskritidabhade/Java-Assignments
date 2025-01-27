@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class Q1_main {
+public class Q1 {
 // A method that tells what day of the week someone’s birthday falls on this year (2025).
     public static String getDayOfWeek(int day){
         String dayName = "";
